@@ -56,6 +56,18 @@
       "scss": ["*.scss"],
       "matlab": ["*.m", "*.mat"]
    },
+   "auto_install_extensions": {
+      "html": true,
+      "catppuccin": true,
+      "colored-zed-icons-theme": true,
+      "git-firefly": true,
+      "github-copilot-theme": true,
+      "one-dark-pro": true,
+      "poimandres": true,
+      "ruff": true,
+      "toml": true,
+      "tomorrow-theme": true
+   },
    "indent_guides": {
       "enabled": true,
       "line_width": 0,
