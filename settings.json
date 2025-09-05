@@ -8,6 +8,19 @@
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
   "lsp": {
+    "tailwindcss-language-server": {
+      "settings": {
+        "tailwindCSS": {
+          "includeLanguages": {
+            "typescript": "javascript",
+            "typescriptreact": "javascriptreact",
+            "javascriptreact": "javascriptreact"
+          },
+          "classAttributes": ["class", "className"],
+          "emmetCompletions": true
+        }
+      }
+    },
     "typescript-language-server": {
       "settings": {
         // For JavaScript:
@@ -192,16 +205,19 @@
       }
     },
     "TypeScript": {
-      "language_servers": ["typescript-language-server"]
+      "language_servers": ["typescript-language-server"],
+      "tab_size": 2
     },
     "TSX": {
       "language_servers": [
         "typescript-language-server",
         "tailwindcss-language-server"
-      ]
+      ],
+      "tab_size": 2
     },
     "JavaScript": {
-      "language_servers": ["typescript-language-server"]
+      "language_servers": ["typescript-language-server"],
+      "tab_size": 2
     },
     "JSON": {
       "tab_size": 2
