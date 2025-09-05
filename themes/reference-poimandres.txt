@@ -1,0 +1,31 @@
+    #1b1e28 (Very Dark Blue-Gray): The predominant background color for the editor, sidebars, and activity bars.
+    #202430 (Slightly Lighter Dark Blue-Gray): Used for status bars and some widget backgrounds.
+    #303340 (Dark Slate Blue): A prominent secondary color used for badges, buttons, headers, and some highlights.
+    #e4f0fb (Light Blue-Gray): The main text color for active and important elements. It also appears in badges, buttons, and some foregrounds.
+    #a6accd (Muted Blue-Gray): The primary foreground color for most text, icons, and status bar elements. It's a key color for readability.
+
+Accent & Highlight Colors
+These colors are used to draw attention to specific states, syntax, and information.
+    #ADD7FF (Vibrant Sky Blue): A bright accent color used for information, links, modified files, and various highlights.
+    #d0679d (Muted Magenta/Red): Used for errors, deleted items, and debugging states.
+    #5DE4c7 (Bright Cyan-Green): An accent color for success messages, new items, and specific syntax like keywords and strings.
+    #89ddff (Pale Cyan): A bright, light blue used for various highlights, debug values, and some charts.
+    #fffac2 (Light Yellow): Used for warnings, hints, and lightbulb icons.
+    #5fb3a1 (Muted Green): Another success-related color, often for added code and breakpoints.
+    #f087bd (Pale Magenta): Used for function names, constructors, and certain debug values.
+    #767c9d (Dusty Blue): A muted color for inactive text, comments, and ignored files.
+    #7390AA (Slate Blue): A soft blue-gray used for skipped items, placeholders, and separator lines.
+    #506477 (Steel Blue): Used for removed text and some background highlights.
+    #91B4D5 (Slate Blue): A slightly brighter slate blue for operators and some class names.
+    #42675A (Dark Green-Gray): A specific color used for a single syntax token.
+Other Colors
+
+These are common, generic colors with no specific semantic meaning tied to the theme's palette.
+
+    #ffffff (White): Used for button text, certain terminal text, and bright highlights.
+    #000000 (Black): Used sparingly for shadows and some borders.
+    #7abd7a (Green): Used for editor highlights.
+    #264f78 (Navy Blue): Used for hover highlights.
+    #525252 (Dark Gray): Used for snippet borders.
+    #7c7c7c (Gray): Used for snippet backgrounds.
+    #a0a0a0 (Gray): Used for ruler highlights.
