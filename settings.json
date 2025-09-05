@@ -91,7 +91,7 @@
     "show": "never"
   },
   "tabs": { "file_icons": true },
-  "vim_mode": false,
+  "vim_mode": true,
   "hover_popover_enabled": true,
   "cursor_blink": false,
   "project_panel": {
