@@ -144,7 +144,8 @@
     "font_size": 14,
     "font_family": "JetBrainsMono Nerd Font",
     "toolbar": { "breadcrumbs": false },
-    "line_height": "standard"
+    "line_height": "standard",
+    "detect_venv": "off"
   },
   "toolbar": {
     "breadcrumbs": false,
