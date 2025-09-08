@@ -132,7 +132,10 @@
     "poimandres": true,
     "ruff": true,
     "toml": true,
-    "tomorrow-theme": true
+    "tomorrow-theme": true,
+    "dockerfile": true,
+    "lua": true,
+    "basher": true
   },
   "indent_guides": {
     "enabled": true,
@@ -227,5 +230,5 @@
     }
   },
   "active_pane_modifiers": { "border_size": 0.0 },
-  "autosave": "on_focus_change"
+  "autosave": "on_window_change"
 }
