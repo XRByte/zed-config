@@ -2,7 +2,7 @@
 //
 [
   {
-    "label": "Sync zed settings",
+    "label": "Pull zed settings",
     "command": "git -C \"${ZDG_CONFIG_HOME:-$HOME/.config/zed}\" pull",
     "use_new_terminal": false,
     "allow_concurrent_runs": false,
@@ -11,7 +11,7 @@
     "shell": "system"
   },
   {
-    "label": "Update zed settings",
+    "label": "Sync zed settings",
     "command": "git -C \"${ZDG_CONFIG_HOME:-$HOME/.config/zed}\" add --all; git -C \"${ZDG_CONFIG_HOME:-$HOME/.config/zed}\" commit -m \"Updated configuration\"; git -C \"${ZDG_CONFIG_HOME:-$HOME/.config/zed}\" push origin main",
     "use_new_terminal": false,
     "allow_concurrent_runs": false,
