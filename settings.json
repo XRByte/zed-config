@@ -157,8 +157,8 @@
   },
   "base_keymap": "VSCode",
   "terminal": {
-    "font_size": 14,
-    "font_family": "JetBrainsMono Nerd Font",
+    "font_size": 15,
+    "font_family": "DankMono Nerd Font",
     "toolbar": { "breadcrumbs": false },
     "line_height": "standard",
     "detect_venv": "off"
@@ -175,10 +175,10 @@
   "ui_font_size": 16.0,
   "tab_size": 4,
   "ui_font_family": "JetBrainsMono Nerd Font Mono",
-  "buffer_font_size": 14.0,
+  "buffer_font_size": 15.0,
   "buffer_line_height": "comfortable",
   "current_line_highlight": "all",
-  "buffer_font_family": "JetBrainsMono Nerd Font",
+  "buffer_font_family": "Dank Mono",
   "buffer_font_features": { "calt": true },
   "theme": {
     "mode": "system",
