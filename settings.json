@@ -183,7 +183,7 @@
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "Tomorrow Night"
+    "dark": "Aylin"
   },
   "languages": {
     "Python": {
@@ -230,14 +230,5 @@
     }
   },
   "active_pane_modifiers": { "border_size": 0.0 },
-  "autosave": "on_window_change",
-  "overrides": [
-    {
-      "files": ["*.jsonc"],
-      "options": {
-        "parser": "json",
-        "trailingComma": "none"
-      }
-    }
-  ]
+  "autosave": "on_window_change"
 }
