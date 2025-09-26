@@ -24,7 +24,6 @@
     },
     "typescript-language-server": {
       "settings": {
-        // For JavaScript:
         "javascript": {
           "inlayHints": {
             "parameterNames": {
@@ -41,7 +40,6 @@
             "enumMemberValues": { "enabled": true }
           }
         },
-        // For TypeScript:
         "typescript": {
           "inlayHints": {
             "parameterNames": {
@@ -143,7 +141,8 @@
     "active_line_width": 2,
     "background_coloring": "disabled"
   },
-  "soft_wrap": "editor_width",
+  "soft_wrap": "bounded",
+  "show_wrap_guides": false,
   "telemetry": {
     "metrics": false,
     "diagnostics": false
