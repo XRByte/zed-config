@@ -187,7 +187,7 @@
   },
   "languages": {
     "Python": {
-      "language_servers": ["pyright", "ty", "!basedpyright", "ruff"],
+      "language_servers": ["pyright", "!basedpyright", "ruff"],
       "formatter": [
         { "code_actions": { "source.organizeImports.ruff": true } },
         {
