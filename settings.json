@@ -173,7 +173,7 @@
     "active_line_width": 2,
     "background_coloring": "disabled"
   },
-  "soft_wrap": "preferred_line_length",
+  "soft_wrap": "bounded",
   "preferred_line_length": 120,
   "show_wrap_guides": false,
   "telemetry": {
